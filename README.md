@@ -1,2 +1,0 @@
-# ionicApp
-Learning ionic framework
